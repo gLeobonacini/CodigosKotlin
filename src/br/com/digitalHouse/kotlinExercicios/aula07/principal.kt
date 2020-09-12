@@ -10,7 +10,7 @@ fun main(){
     //superHomem.voar()
 
     val impressora = Impressora()
-    impressora.adicionaNaFila(Foto("Selfie.png"),Documento("Trabalho_Agora_Vai.docx"),Contrato("Locação.docx"))
+    impressora.adicionaFila(Foto("Selfie.png"),Documento("Trabalho_Agora_Vai.docx"),Contrato("Locação.docx"))
     impressora.imprimeFila()
 
     val cama = ItemVenda("Cama de casal", 10,200.00)
