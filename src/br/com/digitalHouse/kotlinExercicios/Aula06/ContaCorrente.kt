@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula06
+package br.com.digitalHouse.kotlinExercicios.aula06
 
 class ContaCorrente(cliente: Clientes, saldoConta: Double = 0.00, val chequeEspecial: Double = 0.00): Contas(cliente,saldoConta) {
     override var saldo = super.saldo + chequeEspecial

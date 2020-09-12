@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula05
+package br.com.digitalHouse.kotlinExercicios.aula05
 
 class Exercicio05 {
     //-------- Atributos --------//

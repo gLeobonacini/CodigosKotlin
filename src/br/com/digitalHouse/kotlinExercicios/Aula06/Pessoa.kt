@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula06
+package br.com.digitalHouse.kotlinExercicios.aula06
 
 class Pessoa(idade: Int = 0, especie: String = "", val nome: String = "") : Animal(idade, especie) {
     override fun locomover() {

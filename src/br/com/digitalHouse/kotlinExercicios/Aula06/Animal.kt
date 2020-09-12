@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula06
+package br.com.digitalHouse.kotlinExercicios.aula06
 
 abstract class Animal(open val idade: Int = 0, open val especie: String = "") {
     //-------- Atributos --------//

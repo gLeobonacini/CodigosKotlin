@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula06
+package br.com.digitalHouse.kotlinExercicios.aula06
 
 class CamaroteSuperior(): VIP() {
     var localizacao: String = "S1"

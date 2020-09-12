@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula04
+package br.com.digitalHouse.kotlinExercicios.aula04
 
 fun main(){
     println(exercicio05(1,2,3,4))

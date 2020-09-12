@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula06
+package br.com.digitalHouse.kotlinExercicios.aula06
 
 fun main(){
     //println("OBJETO PESSOA____________________________________________")
@@ -26,6 +26,7 @@ fun main(){
     conta1.sacar(100.00)
     conta1.depositarDinheiro(-1.00)
     conta1.depositarDinheiro(100.00)
+    conta1.recolherJuros()
     conta1.consultarSaldo()
 
     println("Conta Corrente----------")

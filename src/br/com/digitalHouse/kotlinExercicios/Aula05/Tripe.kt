@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula05
+package br.com.digitalHouse.kotlinExercicios.aula05
 
 class Tripe(var dobrado: Boolean, var alturaMinima: Int, var alturaMaxima: Int, var alturaAtual: Int){
     //-------- Atributos --------//

@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula06
+package br.com.digitalHouse.kotlinExercicios.aula06
 
 open class Contas(val cliente: Clientes, open var saldo: Double) {
     //-------- Atributos --------//

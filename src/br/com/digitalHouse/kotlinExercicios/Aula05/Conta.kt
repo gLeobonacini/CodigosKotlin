@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula05
+package br.com.digitalHouse.kotlinExercicios.aula05
 
 class Conta(val numeroConta: Int, private var saldo: Double, val titular: Cliente) {
     //-------- Atributos --------//

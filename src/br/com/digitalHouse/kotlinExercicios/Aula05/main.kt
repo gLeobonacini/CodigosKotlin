@@ -1,4 +1,4 @@
-package br.com.digitalHouse.kotlinExercicios.Aula05
+package br.com.digitalHouse.kotlinExercicios.aula05
 
 import java.util.*
 import kotlin.collections.ArrayList
